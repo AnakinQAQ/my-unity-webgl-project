@@ -1,4 +1,0 @@
-# 配置Unity WebGL资源的MIME类型与编码
-AddEncoding gzip .gz
-AddType application/gzip .gz
-AddType application/octet-stream .unityweb
